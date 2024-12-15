@@ -8,8 +8,8 @@ This project involves analyzing and visualizing restaurant data scraped from onl
 ## Team Allocation
 | Team Member                 | Role              | Contribution (%) |
 |-----------------------------|-------------------|------------------|
-| Ismayil Panahli (Team Leader) | Data Processing   | 25%              |
-| Shamsi Nagiyev               | Visualization     | 25%              |
+| Ismayil Panahli (Team Leader) | Data Scraping & Processing   | 25%              |
+| Shamsi Nagiyev               | Found websites for scraping    | 25%              |
 | Huseyn Jafarly               | Documentation     | 25%              |
 | Kazim Hummetov             | Testing & QA      | 25%              |
 
