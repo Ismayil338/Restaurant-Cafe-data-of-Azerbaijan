@@ -11,7 +11,7 @@ This project involves analyzing and visualizing restaurant data scraped from onl
 | Ismayil Panahli (Team Leader) | Data Processing   | 25%              |
 | Shamsi Nagiyev               | Visualization     | 25%              |
 | Huseyn Jafarly               | Documentation     | 25%              |
-| Kazim               | Testing & QA      | 25%              |
+| Kazim Hummetov             | Testing & QA      | 25%              |
 
 ## GitHub Repository
 [Project Repository URL](https://github.com/your-repository-url)
