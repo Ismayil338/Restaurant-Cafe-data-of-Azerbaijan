@@ -8,10 +8,10 @@ This project involves analyzing and visualizing restaurant data scraped from onl
 ## Team Allocation
 | Team Member                 | Role              | Contribution (%) |
 |-----------------------------|-------------------|------------------|
-| Team Member 1 (Team Leader) | Data Processing   | 25%              |
-| Team Member 2               | Visualization     | 25%              |
-| Team Member 3               | Documentation     | 25%              |
-| Team Member 4               | Testing & QA      | 25%              |
+| Ismayil Panahli (Team Leader) | Data Processing   | 25%              |
+| Shamsi Nagiyev               | Visualization     | 25%              |
+| Huseyn Jafarly               | Documentation     | 25%              |
+| Kazim               | Testing & QA      | 25%              |
 
 ## GitHub Repository
 [Project Repository URL](https://github.com/your-repository-url)
