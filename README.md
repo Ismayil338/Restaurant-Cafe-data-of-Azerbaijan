@@ -1,1 +1,54 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Ajy8KP4Y)
+
+Project Title
+
+Project Description
+
+This project involves analyzing and visualizing restaurant data scraped from online sources. The data includes information such as restaurant names, votes, rating stars, and types. The project processes raw data, cleans it, and provides insights through various visualizations, such as rating distribution, top restaurant kinds, and the relationship between votes and ratings. Additionally, the cleaned data is saved for further analysis.
+
+Team Allocation
+
+Team Member
+
+Role
+
+Contribution (%)
+
+Team Member 1 (Team Leader)
+
+Data Processing
+
+25%
+
+Team Member 2
+
+Visualization
+
+25%
+
+Team Member 3
+
+Documentation
+
+25%
+
+Team Member 4
+
+Testing & QA
+
+25%
+
+GitHub Repository
+
+Project Repository URL
+
+Notes
+
+Ensure the dataset is placed in the correct folder (./data/) before running the code.
+
+The Votes column required preprocessing to extract numeric data from text entries.
+
+The project uses Python libraries such as Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
+
+The processed dataset is saved as processed_data_team_13.csv in the ./data/ directory.
+
