@@ -17,7 +17,6 @@ This project involves analyzing and visualizing restaurant data scraped from onl
 [Project Repository URL](https://github.com/your-repository-url)
 
 ## Notes
-- Ensure the dataset is placed in the correct folder (`./data/`) before running the code.
 - The `Votes` column required preprocessing to extract numeric data from text entries.
 - The project uses Python libraries such as Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
 - The processed dataset is saved as `processed_data_team_13.csv` in the `./data/` directory.
