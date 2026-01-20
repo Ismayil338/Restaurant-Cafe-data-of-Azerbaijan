@@ -3,7 +3,7 @@
 ## Project Description
 This project involves analyzing and visualizing restaurant data scraped from online sources. The data includes information such as restaurant names, votes, rating stars, and types. The project processes raw data, cleans it, and provides insights through various visualizations, such as rating distribution, top restaurant kinds, and the relationship between votes and ratings. Additionally, the cleaned data is saved for further analysis.
 
-*[Source website](https://oneclick.az/business/Restaurant/Restaurant/Restoranlar)
+[Source website](https://oneclick.az/business/Restaurant/Restaurant/Restoranlar)
 
 ## Team Allocation
 | Team Member                 | Role              | Contribution (%) |
