@@ -18,3 +18,7 @@ This project involves analyzing and visualizing restaurant data scraped from onl
 - The project uses Python libraries such as [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for data manipulation and visualization.
 - The processed dataset is saved as `processed_data_team_13.csv` in the `./data/` directory.
 
+## Tech stack
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
