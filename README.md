@@ -1,7 +1,7 @@
 # Restaurant & Cafe data of Azerbaijan
-[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
 
 ## Project Description
 This project involves analyzing and visualizing restaurant data scraped from online sources. The data includes information such as restaurant names, votes, rating stars, and types. The project processes raw data, cleans it, and provides insights through various visualizations, such as rating distribution, top restaurant kinds, and the relationship between votes and ratings. Additionally, the cleaned data is saved for further analysis.
