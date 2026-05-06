@@ -19,5 +19,8 @@ This project involves analyzing and visualizing restaurant data scraped from onl
 
 ## Notes
 - The `Votes` column required preprocessing to extract numeric data from text entries.
-- The project uses Python libraries such as [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for data manipulation and visualization.
+- The project uses Python libraries such as:
+    - [NumPy](https://numpy.org/) and [Pandas](https://pandas.pydata.org/) for data analysis
+    - [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for data visualization
+    - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for data scraping
 - The processed dataset is saved as `processed_data_team_13.csv` in the `./data/` directory.
